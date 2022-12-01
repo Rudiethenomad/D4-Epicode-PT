@@ -158,6 +158,37 @@ width: 92vw;
    
 
 }
+
+#new_container{
+    background-color:transparent;
+    width: 93vw;
+    height: 455px;
+    padding: 1rem 1rem 0 1.5rem;
+    padding-left: 21px;
+    padding-right: 16px;
+    padding-top: 16px;
+    text-align: left;
+   
+    margin-left: 32px;
+    margin-right:1rem;
+
+}
+.nc_box_one{
+    background-color:white;
+
+}
+.nc_box_two{
+
+}
+.nc_box_three{
+
+
+}
+.nc_box_four{
+
+
+}
+
 .tec_photo{
     background-color: transparent;
     text-align: center;
