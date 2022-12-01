@@ -159,9 +159,14 @@ width: 92vw;
 
 }
 
+
+
+
+
+
 #new_container{
-    display:flex;
-    justify-content: space-around;
+    display:block;
+    
     background-color:transparent;
     width: 97.7vw;
     height: 450px;
@@ -170,15 +175,14 @@ width: 92vw;
     padding-right: 5px;
     padding-top: 16px;
     text-align: left;
-   
     margin-left: 23px;
     margin-right: 0px;
 
 }
 .nc_box_one{
-    position: relative;
-    display: flexbox;
-    
+    position:relative;
+    display:inline-block;
+      
     background-color:white;
     height: 420px;
     margin-right: 16px;
@@ -197,19 +201,10 @@ width: 92vw;
 
 
 }
-.box_one_photorow_one{
-    display: flex;
-    flex-direction: column;
-    height: 115px;
-    object-fit: cover;
-    width: 50px;
-    }
-.headphones{
-    width: 150px;
-}
-.keyboard{
-    width: 150px;
-}
+
+
+
+
 
 .nc_box_two{
     position: relative;
