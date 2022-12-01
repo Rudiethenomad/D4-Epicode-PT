@@ -65,12 +65,8 @@ header span{
     margin-right: 32px;
     width: 95.5vw;
 }
-h1{
-   
-}
-h3{
-    
-}
+
+
 .photogallery{
     background-color: white;
     width: 93vw;
@@ -195,7 +191,7 @@ width: 92vw;
     padding-left: 30px;
     font-weight: bold;
 }
-.footer{
+.photo_bottom{
     padding-top:30px;
 }
 .b_body{
