@@ -169,7 +169,7 @@ width: 92vw;
     width: 93vw;
     height: 455px;
     padding: 1rem 1rem 0 1.5rem;
-    padding-left: 21px;
+    padding-left: 0px;
     padding-right: 16px;
     padding-top: 16px;
     text-align: left;
@@ -191,8 +191,13 @@ width: 92vw;
 .title{
     position:relative;
     margin-top:0;
+    padding-top: 10px;
+    padding-left: 30px;
+    font-weight: bold;
 }
-
+.footer{
+    padding-top:30px;
+}
 .b_body{
     display: block;
    
@@ -214,6 +219,7 @@ img{
     object-fit: cover;
     width: 120px;
 }
+
 
 .nc_box_two{
     position: relative;
@@ -240,6 +246,12 @@ img{
     margin-right: 16px;
     width: 328px;
 
+}
+
+
+p{
+    margin-top: 0;
+    margin-bottom:20px;
 }
 
 .tec_photo{
