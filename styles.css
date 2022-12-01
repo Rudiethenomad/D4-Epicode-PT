@@ -165,44 +165,55 @@ width: 92vw;
 
 
 #new_container{
-    display:flex;
-    flex-direction:row;
-    justify-content: space-around;
     background-color:transparent;
-    width: 97.7vw;
-    height: 450px;
+    width: 93vw;
+    height: 455px;
     padding: 1rem 1rem 0 1.5rem;
-    padding-left: 0px;
-    padding-right: 5px;
+    padding-left: 21px;
+    padding-right: 16px;
     padding-top: 16px;
     text-align: left;
-    margin-left: 23px;
-    margin-right: 0px;
-
+   
+    margin-left: 32px;
+    margin-right:1rem;
 }
 .nc_box_one{
     position: relative;
-    display:flex;
+    display:inline-block;
       
     background-color:white;
     height: 420px;
     margin-right: 16px;
     width: 328px;
+    margin-top: 0;
 
 }
-.box_one_header{
-    font-size:larger;
-    font-weight: bolder;
-    height: 24px;
+.title{
+    position:relative;
+    margin-top:0;
+}
+
+.b_body{
+    display: block;
+   
+    height: 282px;
     padding-bottom: 0px;
     padding-left: 32px;
     padding-right: 32px;
     padding-top: 0px;
-    width: 264px;
-
-
+    width: 264px;  
 }
+.photo_container{
+    display: inline-block;
 
+    height: 133px;
+    width: 120px;
+}
+img{
+    height: 115px;
+    object-fit: cover;
+    width: 120px;
+}
 
 .nc_box_two{
     position: relative;
