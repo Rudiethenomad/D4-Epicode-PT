@@ -165,8 +165,9 @@ width: 92vw;
 
 
 #new_container{
-    display:block;
-    
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
     background-color:transparent;
     width: 97.7vw;
     height: 450px;
@@ -180,8 +181,8 @@ width: 92vw;
 
 }
 .nc_box_one{
-    position:relative;
-    display:inline-block;
+    position: relative;
+    display:flex;
       
     background-color:white;
     height: 420px;
@@ -201,9 +202,6 @@ width: 92vw;
 
 
 }
-
-
-
 
 
 .nc_box_two{
