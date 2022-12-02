@@ -163,11 +163,11 @@ width: 92vw;
 #new_container{
     background-color:transparent;
     width: 93vw;
-    height: 455px;
+    height: 425px;
     padding: 1rem 1rem 0 1.5rem;
     padding-left: 0px;
     padding-right: 16px;
-    padding-top: 16px;
+    padding-top: 35px;
     text-align: left;
    
     margin-left: 32px;
@@ -179,7 +179,7 @@ width: 92vw;
       
     background-color:white;
     height: 420px;
-    margin-right: 16px;
+    margin-right: 40px;
     width: 328px;
    
 
@@ -192,7 +192,9 @@ width: 92vw;
     font-weight: bold;
 }
 .photo_bottom{
-    padding-top:30px;
+    padding-top:40px;
+    padding-left: 30px;
+    color: rgb(0,113,133);
 }
 .b_body{
     display: block;
@@ -206,9 +208,11 @@ width: 92vw;
 }
 .photo_container{
     display: inline-block;
-
+    margin-right: 0;
+    padding-right:10px;
     height: 133px;
     width: 120px;
+    padding-bottom: 10px;
 }
 img{
     height: 115px;
@@ -222,7 +226,7 @@ img{
     display:inline-block;
     background-color:white;
     height: 420px;
-    margin-right: 16px;
+    margin-right: 40px;
     width: 328px;
 }
 .nc_box_three{
@@ -230,7 +234,7 @@ img{
     display:inline-block;
     background-color:white;
     height: 420px;
-    margin-right: 16px;
+    margin-right: 40px;
     width: 328px;
 
 }
@@ -239,7 +243,7 @@ img{
     display:inline-block;
     background-color:white;
     height: 420px;
-    margin-right: 16px;
+    margin-right: 32px;
     width: 328px;
 
 }
