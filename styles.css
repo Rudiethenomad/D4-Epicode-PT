@@ -7,7 +7,7 @@ header{
     background-color: rgb(37, 47, 62);
     height: 60px;
     margin-bottom: 60px;
-;
+
 }
 main{
     margin-top: 0;
@@ -16,7 +16,7 @@ main{
 .logo{
     padding-left: 25px;
     height:50px;
-    width:100px;
+    width:150px;
 }
 .nav_bar{
     padding-left: 25px;
@@ -91,10 +91,10 @@ header span{
 }
 .photo_row{
 
-height: 455px;
-text-align: center;
-width: 92vw;
-}
+    height: 455px;
+    text-align: center;
+    width: 92vw;
+    }
 .img_1{
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -171,7 +171,7 @@ width: 92vw;
     text-align: left;
    
     margin-left: 32px;
-    margin-right:1rem;
+    margin: right 0.5em;
 }
 .nc_box_one{
     position: relative;
@@ -201,8 +201,8 @@ width: 92vw;
    
     height: 282px;
     padding-bottom: 0px;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding-left: 35px;
+    padding-right: 0px;
     padding-top: 0px;
     width: 264px;  
 }
@@ -342,10 +342,21 @@ p{
     }
 .footer_logo{
     height: 60px;
+    width: 170px;
     
     
 }
 .color-white{
     color:white;
 
+}
+.photo_bottom_2{
+    padding-top:35px;
+    padding-left: 0px;
+    color: rgb(0,113,133);
+}
+.photo_bottom_3{
+    padding-top:35px;
+    padding-left: 0px;
+    color: rgb(0,113,133);
 }
